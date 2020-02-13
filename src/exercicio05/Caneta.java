@@ -15,4 +15,19 @@ public class Caneta implements Interface {
 
     }
 
+    public String getEhFeitoDe() {
+        return ehFeitoDe;
+    }
+
+    public void setEhFeitoDe(String ehFeitoDe) {
+        this.ehFeitoDe = ehFeitoDe;
+    }
+
+    public String getEscreveCom() {
+        return escreveCom;
+    }
+
+    public void setEscreveCom(String escreveCom) {
+        this.escreveCom = escreveCom;
+    }
 }

@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio01/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio01/PessoaEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio02/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio03/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio03/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio04/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio04/Exercicio04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio04/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio04/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Caneta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Exercicio05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Lapis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/PenaMosquito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/ContaCorrente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExerciciosOO/exercicio01/Exercicio01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio05/Caneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/Caneta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio05/Lapis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/Lapis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio05/PenaMosquito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/PenaMosquito.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,10 +116,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581609494928">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581610081783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581609494928" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581610081783" />
     <state x="427" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581608411847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
