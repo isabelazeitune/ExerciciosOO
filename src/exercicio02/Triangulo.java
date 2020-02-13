@@ -4,6 +4,7 @@ public class Triangulo {
     private double base;
     private double altura;
     private double area;
+    // não precisa do atributo área, então no método pode-se retornar double o cálculo sem nome de atributo
 
     public Triangulo(double base, double altura) {
         this.base = base;

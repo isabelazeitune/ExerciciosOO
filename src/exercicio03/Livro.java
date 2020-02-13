@@ -11,25 +11,25 @@ public class Livro {
         this.numeroDePaginas = numeroDePaginas;
     }
 
-    public String getTitulo() {
-        return titulo;
-    }
+    //public String getTitulo() {
+    //    return titulo;
+    //}
 
-    public void setTitulo(String titulo) {
-        this.titulo = titulo;
-    }
+    //public void setTitulo(String titulo) {
+    //    this.titulo = titulo;
+    //}
 
-    public String getAutor() {
-        return autor;
-    }
+    //public String getAutor() {
+    //    return autor;
+    //}
 
-    public void setAutor(String autor) {
-        this.autor = autor;
-    }
+    //public void setAutor(String autor) {
+    //    this.autor = autor;
+    //}
 
-    public int getNumeroDePaginas() {
-        return numeroDePaginas;
-    }
+    //public int getNumeroDePaginas() {
+    //    return numeroDePaginas;
+    //}
 
     public void setNumeroDePaginas(int numeroDePaginas) {
         this.numeroDePaginas = numeroDePaginas;
